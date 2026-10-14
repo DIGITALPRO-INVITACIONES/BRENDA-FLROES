@@ -1,9 +1,10 @@
 INVITACIÓN DE GRADUACIÓN · BRENDA MAYTE
 29 de noviembre de 2026 · 16:00 (Bolivia)
-WhatsApp: +591 75378964
 Ubicación: https://maps.app.goo.gl/43pVjtpY6VpEbXtC8
 
 Subir todos los archivos y la carpeta assets juntos al repositorio de GitHub Pages. index.html debe quedar en la raíz.
 La música comienza al abrir la invitación. El nombre del salón no fue suministrado; se usa el enlace de ubicación recibido.
 Guardar en calendario añade la celebración a las 16:00; duración de referencia: tres horas.
 Las fotos se usan sin alterar su contenido y se optimizan en WebP.
+
+Versión 3: se retiró la confirmación de asistencia y se centró el retrato con toga.
